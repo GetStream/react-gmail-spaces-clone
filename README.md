@@ -1,3 +1,5 @@
+> **This repository is archived and will be deleted.** It is no longer maintained. For a current alternative, see [the React chat tutorial](https://getstream.io/chat/sdk/react/tutorial/).
+
 # stream-spaces
 
 stream-spaces is a Gmail Spaces Clone built with Stream and the React SDK.
